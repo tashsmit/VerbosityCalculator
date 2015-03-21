@@ -28,7 +28,7 @@ public class Main {
 
         int wordCount = 0;
         int sentenceCount = 0;
-        double average = 0;
+        double average;
 
 
         try {
